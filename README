@@ -9,6 +9,7 @@ Because Genghius says so. You know genghius is always rigth.
 
 ## Difference from normal BrainFuck
 
-|><		|+-		|,.		|[]		|
-|---		|---		|---		|---		|
-|Can be followed by a number N which will repeat the operator N times		|Can be followed by a number N which will repeat the operator N times		|Same Shit	|Same Shit	|
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
